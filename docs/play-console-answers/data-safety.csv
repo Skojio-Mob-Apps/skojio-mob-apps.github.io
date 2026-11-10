@@ -1,0 +1,5 @@
+Data type,Collected,Shared,Processed ephemerally,Required or optional,Collected purposes,Shared purposes
+Approximate location,Yes,Yes,No,Required,Advertising or marketing;Analytics,Advertising or marketing;Analytics
+Device or other IDs,Yes,Yes,No,Required,Advertising or marketing,Advertising or marketing
+Diagnostics,Yes,Yes,No,Required,Analytics;Advertising or marketing,Analytics;Advertising or marketing
+Purchase history,Yes,No,No,Optional,App functionality,
